@@ -1,0 +1,20 @@
+
+OpenDocument="usart.c", FilePath="D:/Projects/f0/Src/usart.c", Line=0
+OpenDocument="main.c", FilePath="D:/Projects/f0/Src/main.c", Line=0
+OpenDocument="startup_stm32f042x6.s", FilePath="D:/Projects/f0/startup/startup_stm32f042x6.s", Line=52
+OpenToolbar="Debug", Floating=0, x=0, y=0
+OpenWindow="Registers 1", DockArea=RIGHT, x=0, y=1, w=406, h=407, FilterBarShown=0, TotalValueBarShown=0, ToolBarShown=0, FilteredItems=[], RefreshRate=1
+OpenWindow="Source Files", DockArea=LEFT, x=0, y=0, w=417, h=369, FilterBarShown=0, TotalValueBarShown=0, ToolBarShown=0
+OpenWindow="Disassembly", DockArea=RIGHT, x=0, y=0, w=406, h=252, FilterBarShown=0, TotalValueBarShown=0, ToolBarShown=0
+OpenWindow="Memory 1", DockArea=BOTTOM, x=1, y=0, w=635, h=273, FilterBarShown=0, TotalValueBarShown=0, ToolBarShown=0, EditorAddress=0x1FFFFFD0
+OpenWindow="Watched Data 1", DockArea=LEFT, x=0, y=1, w=417, h=274, FilterBarShown=0, TotalValueBarShown=0, ToolBarShown=0
+OpenWindow="Functions", DockArea=LEFT, x=0, y=0, w=417, h=369, FilterBarShown=0, TotalValueBarShown=0, ToolBarShown=0
+OpenWindow="Console", DockArea=BOTTOM, x=0, y=0, w=932, h=273, FilterBarShown=0, TotalValueBarShown=0, ToolBarShown=0
+TableHeader="Source Files", SortCol="File", SortOrder="ASCENDING", VisibleCols=["File";"Status";"Size";"#Insts";"Path"], ColWidths=[155;83;44;57;464]
+TableHeader="Functions", SortCol="Name", SortOrder="ASCENDING", VisibleCols=["Name";"Address";"Size";"#Insts";"Source"], ColWidths=[134;64;44;57;164]
+TableHeader="Power Sampling", SortCol="Index", SortOrder="ASCENDING", VisibleCols=["Index";"Time";"Ch 0"], ColWidths=[100;100;100]
+TableHeader="Registers 1", SortCol="Name", SortOrder="ASCENDING", VisibleCols=["Name";"Value";"Description"], ColWidths=[138;83;168]
+TableHeader="Watched Data 1", SortCol="Expression", SortOrder="ASCENDING", VisibleCols=["Expression";"Value";"Location";"Refresh"], ColWidths=[100;100;100;117]
+TableHeader="RegisterSelectionDialog", SortCol="None", SortOrder="ASCENDING", VisibleCols=[], ColWidths=[]
+WatchedExpression="send2", RefreshRate=1, Window=Watched Data 1
+WatchedExpression="sysTicks", RefreshRate=1, Window=Watched Data 1
